@@ -1,1 +1,1 @@
-# sample-rust
+# Demo codes of Rust
